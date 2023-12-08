@@ -1,5 +1,2 @@
-
 commit 1
-
-Resolve conflict
-
+commit 2
